@@ -1,4 +1,4 @@
-# GPT Chroma Vector Server
+# GPT Assistant on document
 
 Add main document:
 - POST /documents/main/addpdf
