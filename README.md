@@ -1,4 +1,4 @@
-# GPT Assistant on document
+# AI Assistant on document using additional provided data
 
 Add main document:
 - POST /documents/main/addpdf
